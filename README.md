@@ -1,6 +1,6 @@
 # Docker-sort-bam
 
-Alignment module for Hi-C data, based on bwa-mem.
+Data-type-independent, generic bam sorting module
 * Input : any unsorted bam file (.bam)
 * Output : a bam file sorted by coordinate (.sorted.bam) and its index (.sorted.bam.bai).
 
